@@ -1,0 +1,3 @@
+mnp1;monopoli;gestionale;20;8;2;10;6
+mnp2;monopoli;gestionale;20;8;2;10;6
+
