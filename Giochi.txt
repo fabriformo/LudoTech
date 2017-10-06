@@ -1,3 +1,5 @@
-mnp1;monopoli;gestionale;20;8;2;10;6
-mnp2;monopoli;gestionale;20;8;2;10;6
+mnp1;Monopoli;Gestionale;20;8;2;10;6
+rsk1;Risiko;Guerra;25;6;6;42;6
+mnp2;Monopoli;Gestionale;20;8;2;10;6
+cld1;Cluedo;Giallo;15;6;2;6;6
 
