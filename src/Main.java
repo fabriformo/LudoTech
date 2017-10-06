@@ -222,7 +222,7 @@ public class Main
 		JButton btn1 = new JButton("Inserisci Staff");
 		btn1.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				boolean errore_add = false;
+				boolean errore_add = true;
 				String add_nome = JOptionPane.showInputDialog("Inserisci nome: ");
 				String add_cognome = JOptionPane.showInputDialog("Inserisci cognome: ");
 				String add_cell = JOptionPane.showInputDialog("Inserisci cellulare: ");
