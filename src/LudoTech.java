@@ -1,11 +1,6 @@
-import java.awt.EventQueue;
 import java.util.*;
 import java.io.*;
-
-import javax.swing.JFrame;
-import javax.swing.JLabel;
 import javax.swing.JOptionPane;
-import javax.swing.JPasswordField;
 
 public class LudoTech 
 {

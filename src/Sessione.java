@@ -1,6 +1,5 @@
 import java.util.Date;
 import java.util.Observable;
-import java.util.Random;
 
 public class Sessione extends Observable
 {

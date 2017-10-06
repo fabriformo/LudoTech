@@ -1,9 +1,4 @@
 
-import java.io.*;
-import java.util.Date;
-import java.util.LinkedList;
-
-import javax.swing.JOptionPane;
 
 public class Staff extends Persona
 {
